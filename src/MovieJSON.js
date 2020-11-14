@@ -20,3 +20,5 @@ export let movies = [
     src: require("./image/OMK.jpg"),
   },
 ];
+
+export default movies;
